@@ -5,6 +5,9 @@ backend/node_modules
 # Vite build
 frontend/dist
 frontend/.vite
+frontend/npm-debug.log*
+frontend/dist-ssr
+frontend/*.local
 
 # Backend build (if any)
 backend/dist
