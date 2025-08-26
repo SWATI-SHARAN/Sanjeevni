@@ -1,12 +1,10 @@
 @import "tailwindcss";
 
-@theme {
+:root {
   --color-primary: #000000; /* Custom primary color */
   --color-secondary: #f43f5e; /* Custom secondary color */
   --color-accent: #3b82f6; /* Custom accent color */
   --color-accent-dark: #1e3a8a; /* Custom dark accent color */
-}
-:root {
   font-family: system-ui, Avenir, Helvetica, Arial, sans-serif;
   line-height: 1.5;
   font-weight: 400;
